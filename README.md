@@ -1,2 +1,4 @@
 # Hello-World
-TEST
+print "Hello World"
+Open "World is Here"
+%Sucess%
